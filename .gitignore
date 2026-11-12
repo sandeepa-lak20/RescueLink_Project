@@ -1,0 +1,8 @@
+**/out/
+**/check-out/
+**/build/
+**/.gradle/
+**/data/
+**/local.properties
+**/*.keystore
+**/out-eclipse/
